@@ -1,0 +1,27 @@
+{
+    "name": "vue-extensions-pack",
+    "displayName": "Vue Extensions Pack",
+    "description": "Extensions pack for vue development.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Microsoft.debugger-for-chrome",
+        "CharlesWu.vue-css-peek", 
+        "christian-kohler.path-intellisense", 
+        "dariofuzinato.vue-peek", 
+        "dbaeumer.vscode-eslint", 
+        "DengSir.template-generator-vscode", 
+        "eamodio.gitlens", 
+        "eg2.vscode-npm-script", 
+        "formulahendry.auto-close-tag", 
+        "Mcbai.vscode-vuex-peek", 
+        "mkxml.vscode-filesize", 
+        "octref.vetur", 
+        "wayou.vscode-todo-highlight"
+    ]
+}
