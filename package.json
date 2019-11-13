@@ -3,25 +3,35 @@
     "displayName": "Vue Extensions Pack",
     "description": "Extensions pack for vue development.",
     "version": "0.0.1",
+    "publisher": "Mcbai",
     "engines": {
         "vscode": "^1.40.0"
     },
+    "keywords": [
+        "Vue",
+        "Vue.js",
+        "JavaScript"
+    ],
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "Microsoft.debugger-for-chrome",
-        "CharlesWu.vue-css-peek", 
-        "christian-kohler.path-intellisense", 
-        "dariofuzinato.vue-peek", 
+    "repository": {
+        "url": "https://github.com/Mcbai/vue-extensions-pack"
+    },
+    "homepage": "https://github.com/Mcbai/vue-extensions-pack",
+    "icon": "vue-extensions-pack.png",
+    "extensionPack": [
         "dbaeumer.vscode-eslint", 
+        "octref.vetur", 
+        "dariofuzinato.vue-peek", 
+        "Mcbai.vscode-vuex-peek", 
+        "CharlesWu.vue-css-peek",
+        "formulahendry.auto-close-tag", 
+        "christian-kohler.path-intellisense", 
         "DengSir.template-generator-vscode", 
         "eamodio.gitlens", 
         "eg2.vscode-npm-script", 
-        "formulahendry.auto-close-tag", 
-        "Mcbai.vscode-vuex-peek", 
         "mkxml.vscode-filesize", 
-        "octref.vetur", 
         "wayou.vscode-todo-highlight"
     ]
 }
