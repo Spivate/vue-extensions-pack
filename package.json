@@ -2,7 +2,7 @@
     "name": "vue-extensions-pack",
     "displayName": "Vue Extensions Pack",
     "description": "Extensions pack for vue development.",
-    "version": "0.2.0",
+    "version": "0.4.0",
     "publisher": "Mcbai",
     "engines": {
         "vscode": "^1.40.0"
@@ -21,17 +21,19 @@
     "homepage": "https://github.com/Mcbai/vue-extensions-pack",
     "icon": "vue-extensions-pack.png",
     "extensionPack": [
-        "dbaeumer.vscode-eslint", 
+        "dbaeumer.vscode-eslint",
+        "stylelint.vscode-stylelint",
         "octref.vetur", 
-        "dariofuzinato.vue-peek", 
-        "CharlesWu.vue-css-peek",
+        "dariofuzinato.vue-peek",
+        "sdras.vue-vscode-snippets",
         "formulahendry.auto-close-tag", 
         "christian-kohler.path-intellisense", 
-        "DengSir.template-generator-vscode", 
         "eamodio.gitlens", 
+        "donjayamanne.githistory",
         "eg2.vscode-npm-script", 
         "mkxml.vscode-filesize", 
         "wayou.vscode-todo-highlight",
-        "donjayamanne.githistory"
+        "editorconfig.editorconfig",
+        "codestream.codestream"
     ]
 }
