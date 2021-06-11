@@ -25,7 +25,6 @@ Edit the `settings.json` file of `workspace`:
 * [vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VSCode
 * [vue-peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek) - Allows peek and goto definition for Vue single-file components
 * [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) - Snippets that will supercharge your Vue workflow
-* [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits

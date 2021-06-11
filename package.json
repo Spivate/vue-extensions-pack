@@ -2,7 +2,7 @@
     "name": "vue-extensions-pack",
     "displayName": "Vue Extensions Pack",
     "description": "Extensions pack for vue development.",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "publisher": "Mcbai",
     "engines": {
         "vscode": "^1.40.0"
@@ -26,7 +26,6 @@
         "octref.vetur", 
         "dariofuzinato.vue-peek",
         "sdras.vue-vscode-snippets",
-        "formulahendry.auto-close-tag", 
         "christian-kohler.path-intellisense", 
         "eamodio.gitlens", 
         "donjayamanne.githistory",
